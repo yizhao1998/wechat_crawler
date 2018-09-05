@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-It is May 1st 2018, I am learning github in
-the 6th block in lychee hill.
-Try to change 1st.
->>>>>>> 81cafd142219a6805a9f364a7df9a725aaeeee5c
-repaired bug
