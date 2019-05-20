@@ -1,7 +1,7 @@
 # Craw Wechat
 
-Need for my friends' want to backup 
-his wechat official articles </br>
+Request from my friends.
+He want to backup his wechat official articles </br>
 Tencent has no official interface
 
 ### ref pandoc
