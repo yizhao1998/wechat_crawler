@@ -1,11 +1,8 @@
 # Craw Wechat
 
-Request from my friends.
+An easy tool to backup wechat official articles 
 
-He want to backup his wechat official articles 
-
-Tencent has no official interface
-
-### ref pandoc
-### ref selenium
-### ref chrome
+### Dependencies
+pandoc
+selenium
+chrome
