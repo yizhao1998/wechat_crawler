@@ -3,6 +3,8 @@
 An easy tool to backup wechat official articles 
 
 ### Dependencies
-pandoc
+pandoc 
+
 selenium
+
 chrome
